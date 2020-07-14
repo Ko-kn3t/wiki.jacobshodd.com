@@ -1,6 +1,6 @@
 # One Liners
 
-This is simply a random assortment of useful one line commands that I use grequently.
+This is simply a random assortment of useful one line commands that I use frequently.
 
 ## Mounting Shared Folders for VMWare
 
