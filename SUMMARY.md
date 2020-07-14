@@ -9,6 +9,7 @@
   * [Reverse Shells](content/cheatsheets/security/reverse_shells.md)
   * [Password Attacks](content/cheatsheets/security/password_attacks.md)
   * [Enumeration](content/cheatsheets/security/enumeration.md)
+  * [One Liners](content/cheatsheets/security/one-liners.md)
 
 ## Writeups
 
