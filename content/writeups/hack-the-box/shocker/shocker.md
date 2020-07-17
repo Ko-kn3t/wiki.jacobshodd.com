@@ -1,4 +1,4 @@
-# Shocker
+# Shocker Write Up
 
 ![Machine Information](./info_card.png)
 
